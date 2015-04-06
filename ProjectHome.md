@@ -1,0 +1,1 @@
+This project aims to create a native .NET assembly that implements most of the Reviewboard API functionality.
